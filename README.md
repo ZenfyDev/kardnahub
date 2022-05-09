@@ -1,5 +1,6 @@
 # karrdnahub
 
+This Page will redirct you to our website or join our discord!
 
 # credits
 
